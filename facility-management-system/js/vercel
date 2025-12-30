@@ -1,0 +1,7 @@
+{
+  "framework": "nextjs",  // hoặc "vue", "react", "svelte"
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",  // hoặc "dist", "build"
+  "devCommand": "npm run dev",
+  "installCommand": "npm install"
+}
